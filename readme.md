@@ -1,4 +1,6 @@
-# Hello 
+# Sample Laravel Project 
+
+This a project of making an Instagramish webapp.
 
 > $ git clone 
 
