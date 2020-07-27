@@ -1,11 +1,11 @@
 # Hello 
 
-git clone 
+> $ git clone 
 
-> composer update
+> $ composer update
 
-> php artisan key:generate
+> $ php artisan key:generate
 
-php artisan migrate
+> $ php artisan migrate
 
-php artisan storage:link 
+> $ php artisan storage:link 
